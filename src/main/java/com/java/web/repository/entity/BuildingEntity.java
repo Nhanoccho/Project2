@@ -53,7 +53,7 @@ public class BuildingEntity {
         return "BuildingDTO{" +
                 "name='" + name + '\'' +
                 ", street='" + street + '\'' +
-                ", ward='" + ward + '\'' +
+                ", wards='" + ward + '\'' +
                 ", numberOfBasement=" + numberOfBasement +
                 '}';
     }
